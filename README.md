@@ -1,2 +1,2 @@
 # CodingWorkflows
-Examples of a coding pipelines I have created. 
+Examples of coding pipelines I have created. 
